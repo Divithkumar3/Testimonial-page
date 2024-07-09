@@ -1,60 +1,77 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-body{
-    background-color: rgb(241, 234, 173);
-}
-.title{
-    background-color: rgb(37, 156, 116);
-    color: white;
-    font-weight: 300px;
-    height: 50px;
-    font-size: 40px;
-    position: relative;
+ body{
+            background-color: orangered;
+
+        }
+.p1{
     text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.div1{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    width: 300px;
+    height: 150px;
+    position: relative;
+    left: 100px;
+    top: 30px;
 }
 .con1{
-    width: 60%;
-    height: 50px;
-    background-color: rgb(240, 234, 234);
-    border-radius: 3px;
     position: relative;
-    left: 150px;
-    top: 30px;
-    justify-content: center;
-    font-size: 15px;
+    left: 120px;
+    bottom: 30px;
 }
-.p1{
-   position: relative;
-   top: 15px;
-}
-header{
-    color: rgb(121, 4, 76);
-}
-.con2{
-width: 60%;
-    height: 100px;
-    background-color: rgb(240, 234, 234);
-    border-radius: 3px;
+.div2{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    width: 300px;
+    height: 150px;
     position: relative;
-    left: 150px;
-    top: 50px;
-    justify-content: center;
-    font-size: 15px;
-}
-.li1{
-position: relative;
-left: 60px;
-}
-.con3{
-width: 60%;
-    height: 110px;
-    background-color: rgb(240, 234, 234);
-    border-radius: 3px;
-    position: relative;
-    left: 150px;
+    left: 100px;
     top: 60px;
-    justify-content: center;
-    font-size: 15px;
+}
+.div3{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    width: 300px;
+    height: 150px;
+    position: relative;
+    left: 450px;
+    bottom: 270px;
+}
+.div4{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    width: 300px;
+    height: 150px;
+    position: relative;
+    left: 450px;
+    bottom: 240px;
+}
+h6{
+    font-size: 10px;
+}
+.img1{
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+.img2{
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+.img3{
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+.img4{
+    position: relative;
+    top: 50px;
+    left: 30px;
 }
